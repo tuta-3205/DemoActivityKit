@@ -54,7 +54,7 @@ struct RengLiveActivity: Widget {
             .activitySystemActionForegroundColor(Color.black)
 
         } dynamicIsland: { context in
-            // TODO: 2. Create DynamicIsland UI with Swift UI
+            // TODO: 3. Create DynamicIsland UI with Swift UI
             DynamicIsland {
                 DynamicIslandExpandedRegion(.leading) {
                     Text("Leading")

@@ -10,12 +10,12 @@ struct ContentView: View {
     var body: some View {
         VStack(spacing: 16.0) {
             Button("Start Activity") {
-                // TODO: 4. Tap to Start Activity<RengAttributes>
+                // TODO: 5. Tap to Start Activity<RengAttributes>
                 start()
             }
             
             Button("Stop Activity") {
-                // TODO: 4. Tap to Stop Activity<RengAttributes>
+                // TODO: 6. Tap to Stop Activity<RengAttributes>
                 stop()
             }
         }
